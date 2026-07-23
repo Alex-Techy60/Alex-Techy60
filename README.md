@@ -70,16 +70,25 @@
 
 ---
 
-### 🐍 Contribution Graph & Snake Game
+### 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Alex-Techy60/Alex-Techy60/output/github-snake-dark.svg" alt="Snake animation" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-Techy60&theme=react-dark&hide_border=true&area=true" alt="Alex's Contribution Graph" />
 </div>
 
-<br/>
+---
+
+### 📊 GitHub Stats & Streak
 
 <div align="center">
-  <img src="https://github-readme-3d-contrib.herokuapp.com/s3d?username=Alex-Techy60&theme=tokyonight" alt="3D Contribution Graph" width="100%" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alex-Techy60&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Alex's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Techy60&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alex-Techy60&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
